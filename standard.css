@@ -1,0 +1,17 @@
+  nav {
+    background-color: blue;
+  }
+
+  a {
+    color: cyan;
+    margin: 10px;
+  }
+
+  .content {
+    font-size: 14pt;
+    font-weight: bold;
+  }
+
+  p.content {
+    font-style: italic;
+  }
