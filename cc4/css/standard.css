@@ -1,0 +1,44 @@
+body, html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3vh;
+    height: 100%;
+    line-height:1em;
+
+.hero-image {
+    background-image: url("/images/pets.jpg");
+    height: 100%;
+    width: auto;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+
+.hero-text {
+    text-align: center;
+    position: center;
+    font-size: 3rem;
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitle {
+    background-color: #808080;
+    font-size: 1.5rem;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+a {
+    float: left;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    width: 30%;
+    text-align: center; 
+}
