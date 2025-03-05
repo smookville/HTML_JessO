@@ -1,0 +1,43 @@
+table, th, td {
+    border:2px solid rgba(159, 102, 64, 0.745);
+    border-collapse: collapse;
+    background-color: rgb(56, 71, 100);
+    color: white;
+    font-family: 'Times New Roman Narrow', Arial, 'Franklin Gothic Medium', sans-serif;
+    padding: 20px;
+  }
+
+h1 {
+    color: rgba(159, 102, 64, 0.745);
+    font-size: 2.25rem;
+    font-family: 'Times New Roman Narrow', Arial, 'Franklin Gothic Medium', sans-serif;
+    text-align: center;
+  }
+
+#fulltable {
+    border: 10px;
+    padding: 15px;
+    background: rgb(56, 71, 100);
+    background-clip: padding-box;  
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topheader {
+    background-color: white;
+    color: rgba(159, 102, 64, 0.745);
+    font-size: 2rem;
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+    font-size: 1.25rem;
+    padding: 10px;
+}
+
+td {
+    text-align: left;
+}
+
